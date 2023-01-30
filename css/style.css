@@ -10,3 +10,15 @@
     background-color: pink;
 }
 
+#paragraph-with-span{
+    border: 10px;
+    border-color: lightgreen;
+    border-style: ridge;
+    margin: 5px;
+}
+
+#span{
+    padding: 0 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
