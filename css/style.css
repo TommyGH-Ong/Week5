@@ -22,3 +22,12 @@
     border-top: 2px solid black;
     border-bottom: 4px solid gray;
 }
+
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
